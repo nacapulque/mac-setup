@@ -216,5 +216,8 @@ defaults write com.apple.finder ShowStatusBar -bool true
 
 defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool false
 
+# restart Finder to apply changes
 killall Finder;
 ```
+
+happy coding! 💻
